@@ -1,5 +1,5 @@
 _repo: Hegel-s-Lectures-on-the-History-of-Philosophy-Volume-1-of-3_51635
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Haldane, Elizabeth Sanderson
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '43001'
     url: http://www.gutenberg.org/2009/agents/43001
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Haldane
+covers:
+- cover_type: archival
+  image_path: 51635-h/images/cover.jpg
 creator:
   author:
     agent_name: Hegel, Georg Wilhelm Friedrich
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2161
     wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51635#Hegel-s-Lectures-on-the-History-of-Philosophy-Volume-1-of-3
 gutenberg_issued: '2016-04-02'
 gutenberg_type: Text
 identifiers:
